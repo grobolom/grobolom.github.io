@@ -23,6 +23,11 @@
         .sub-header {
             font-style: italic;
         }
+
+        /* for some reason, skeleton doesn't like four of these side-by-side */
+        @media (min-width: 550px) {
+            .three.columns { width: 21%; }
+        }
     </style>
 </head>
 <body>
@@ -45,15 +50,71 @@
     </div>
 
     <div class='row'>
-        <h6 class='section-header'>Senior Developer</h6>
-        <h6 class='sub-header'>WSI Intelligent Audit (2010-2016)</h6>
+        <h6 class='section-header'>Work History & Education</h6>
+
+        <h6 class='sub-header'>Senior Developer</br>WSI Intelligent Audit (2010-2016)</h6>
         <p>This was the bulk of my development experience. I started out working basic data entry and getting familiar with the system as early as 2008. However I was hired as a full-time dev after graduating in 2010. I was a full-stack dev, progressing from junior to senior developer as well as constant project lead. I worked closely with major customers such as Microsoft to help develop an auditing and reporting engine based primarily on PHP and Postgres.</p>
 
         <p>My major accomplishments were a major overhaul of the legacy reporting engine, both front- and back-end, as well as a general shift in company culture towards working with OO principles and working with SOLID, test-covered code. I also designed a wide variety of front-facing reporting services for a very diverse set of customer needs. I tackled many SQL optimization problems based around legacy database design, as well as complex algorithms involving cost distribution.</p>
 
-        <h6 class='section-header'>B.S. in Computer & Electrical Engineering</h6>
-        <h6 class='sub-header'>Rutgers School of Engineering (2006-2010)</h6>
+        <h6 class='sub-header'>B.S. in Computer & Electrical Engineering</br>Rutgers School of Engineering (2006-2010)</h6>
         <p>I graduated Rutgers with a core of classic computer science courses. My upper level classes focused primarily on C and working with the Linux kernel, as well as a strong focus around general architecture and design. My senior class work consisted of a major project written in Java involving simple AIs and mathematical equilibriums. We also did some early work in the CodeIgniter framework for PHP, designing a multi-university college application system.</p>
+    </div>
+
+    <div class='row'>
+        <h6 class='section-header'>Projects and Experiments</h6>
+        <h6 class='sub-header'><a href='http://www.grobolom.com/projects/grobolom.github.io/invoice.html'>Freight Invoice Tool Design</a></h6>
+        <p>An experiment in working with Bootstrap and some very simple js. The major design goals were clarity and ease of use across platforms. The existing screen was disorganized, slow, and not usable on mobile devices. The design is not perfect - tables are a big problem for mobile, and one that is not easily solved. However, the new design meets all the goals and is sufficient for the majority of our users, who primarily access our tool through a desktop or larger laptop device.</p>
+
+        <h6 class='sub-header'><a href='#'>Simple Food Log</a></h6>
+        <p>A project currently in progress, the Simple Food Log (SFL) arose out of my frustrations with existing diet and logging apps. Many popular applications have too many features (MyFitnessPal) which make entering your meals slow; this results in more difficult dieting, as users must take much more time and mental focus to keep recording their caloric intake. Manual solutions such as Excel or Google Sheets are effective but a hassle to maintain; charts need to be updated when they run out of bounds, new workbooks have to be started or sections copied-and-pasted to continue logging.</p>
+        <p>The major design goals of SFL are: speed of food entry; speed of calorie logging; easy averaging and persistent diet tracking; automatic charting of progress. The intent is to marry the simplicity of manual calorie tracking with the convencience and positive reinforcement provided by quick charting and consistent meal tracking.</p>
+    </div>
+    
+    <div class='row'>
+        <h6 class='section-header'>Other Relevant Tools</h6>
+        <div class='three columns'>
+            <h6 class='section-header'>Languages</h6>
+            <ul>
+                <li>PHP (6 years)</li>
+                <li>Python (2 years)</li>
+                <li>Javascript (6 Years)</li>
+                <li>C (1 year)</li>
+                <li>C++ (1 year)</li>
+                <li>Java (1 year)</li>
+            </ul>
+        </div>
+        <div class='three columns'>
+            <h6 class='section-header'>Coding Tools</h6>
+            <ul>
+                <li>Vim</li>
+                <li>PhpStorm</li>
+                <li>Git</li>
+                <li>Mercurial</li>
+                <li>Sublime Text</li>
+            </ul>
+        </div>
+        <div class='three columns'>
+            <h6 class='section-header'>Frameworks</h6>
+            <ul>
+                <li>Symfony</li>
+                <li>Slim</li>
+                <li>Angular 1.x</li>
+                <li>React</li>
+                <li>Backbone</li>
+                <li>CodeIgniter</li>
+            </ul>
+        </div>
+        <div class='three columns'>
+            <h6 class='section-header'>Misc. Tech.</h6>
+            <ul>
+                <li>Nodejs</li>
+                <li>Tornado</li>
+                <li>Apache</li>
+                <li>Nginx</li>
+                <li>PHPUnit</li>
+            </ul>
+        </div>
     </div>
 </div>
 </body>
