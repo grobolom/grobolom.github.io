@@ -9,4 +9,4 @@ If you’re using PHPStorm, definitely give the above-named plugin a look. I’v
 
 ![image](/assets/img/blog/119462900509_0.png)
 
-If you’ve ever seen any of[Sandi Metz’s talks, you’ll find she often mentioned the ‘squint test’ for doing a quick evaluation of code - if things have a lot of indentation or the colors are all mashed together, you probably have an issue. This plugin is great for letting you do it.
+If you’ve ever seen any of [Sandi Metz's talks](https://sandimetz.com/speaking), you’ll find she often mentioned the ‘squint test’ for doing a quick evaluation of code - if things have a lot of indentation or the colors are all mashed together, you probably have an issue. This plugin is great for letting you do it.
