@@ -2,7 +2,6 @@
 layout: post
 title: "The speed curve"
 date: 2019-06-16 17:36:00 -0500
-tags: [tumblr-archive]
 ---
 
 “Metrics” said the engineer. “We need metrics to measure our success”. And so velocity and predictability were born.

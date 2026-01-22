@@ -2,7 +2,6 @@
 layout: post
 title: "The Gaming Renaissance"
 date: 2018-07-27 22:00:00 -0500
-tags: [tumblr-archive]
 ---
 
 I think the boardgame renaissance is one of the most interesting and positive

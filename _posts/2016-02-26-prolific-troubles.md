@@ -2,7 +2,6 @@
 layout: post
 title: "Prolific Troubles"
 date: 2016-02-26 18:29:00 -0500
-tags: [tumblr-archive]
 ---
 
 I listen to the Giant Robots Smashing Into Other Giant Robots Podcast (wow, I didn’t realize how long that was until I had to type it) pretty regularly, and a few months ago I was listening to[this episode titled “Prolificness”. It’s a great episode, and Allison House (the guest) is an impressive guest. While I can’t recall the particulars of the conversation, the piece that stuck out to me was her focus on being prolific.

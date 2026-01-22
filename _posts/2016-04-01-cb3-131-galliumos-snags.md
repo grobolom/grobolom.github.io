@@ -2,7 +2,6 @@
 layout: post
 title: "CB3-131 GalliumOS Snags"
 date: 2016-04-01 23:39:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’m a huge fan of Gallium so far, but when installing it on my new acer I was having some trouble at first.

@@ -2,7 +2,6 @@
 layout: post
 title: "Just Get a Job!"
 date: 2022-08-28 08:51:00 -0500
-tags: [tumblr-archive]
 ---
 
 In recent years I’ve seen many tweets like this one:[https://twitter.com/alicetweet/status/1562516853473230849

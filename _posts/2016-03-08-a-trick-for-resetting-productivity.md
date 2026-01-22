@@ -2,7 +2,6 @@
 layout: post
 title: "A Trick for Resetting Productivity"
 date: 2016-03-08 23:55:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’m not normally one to give you this sort of “One trick that soccer moms know to stay productive …” but this trick does warrant a bit of a sensationalism. The trick:

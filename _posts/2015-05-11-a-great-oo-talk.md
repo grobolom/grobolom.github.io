@@ -2,7 +2,6 @@
 layout: post
 title: "A Great OO Talk"
 date: 2015-05-11 20:26:00 -0500
-tags: [tumblr-archive]
 ---
 
 Got linked this great talk by Sandi Metz about OO:[https://www.youtube.com/watch?v=8bZh5LMaSmE

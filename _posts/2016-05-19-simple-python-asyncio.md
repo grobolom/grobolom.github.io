@@ -2,7 +2,6 @@
 layout: post
 title: "Simple Python Asyncio"
 date: 2016-05-19 00:49:00 -0500
-tags: [tumblr-archive]
 ---
 
 Until recently, I had been struggling to find a good tutorial on Python’s asyncio. I was finding that most tutorials handled relatively simple use cases. Either they would demonstrate the use of futures and callbacks as a way of handling asynchronous requests or they would provide an analogue to the usual threading example of splitting up work between a bunch of threads/coroutines. While these are useful examples, my particular use case was different. I needed to communicate between multiple long-running processes, for example something like a chat client.

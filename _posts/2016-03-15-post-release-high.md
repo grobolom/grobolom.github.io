@@ -2,7 +2,6 @@
 layout: post
 title: "Post-Release High"
 date: 2016-03-15 01:12:00 -0500
-tags: [tumblr-archive]
 ---
 
 It feels pretty great to finally have an application running in the wild.

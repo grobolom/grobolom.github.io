@@ -2,7 +2,6 @@
 layout: post
 title: "Track Learning in your Git Commit History"
 date: 2016-05-17 05:59:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’m a big fan of building a visual representation of your progress in learning, be it via a Kanban-style set of post-it-notes, a log kept in your notebook, or whatever other method happens to work for me at each moment. However, one of the problems I’ve had is keeping track of things across different media.

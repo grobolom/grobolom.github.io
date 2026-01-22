@@ -2,7 +2,6 @@
 layout: post
 title: "Don’t break LSP"
 date: 2015-09-14 22:50:00 -0500
-tags: [tumblr-archive]
 ---
 
 Seriously, don’t do it! The Liskov Substitution Principle doesn’t come up particularly often in my experience, as moving from inheritance to composition often prevents situations arising where it might be broken. However, when you break it, it can be incredibly difficult to refactor your code to a reasonable place without making huge changes.

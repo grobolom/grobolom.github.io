@@ -2,7 +2,6 @@
 layout: post
 title: "JS Speed Frustration"
 date: 2016-04-19 06:14:00 -0500
-tags: [tumblr-archive]
 ---
 
 Perhaps this is more of a fun rant than sheer frustration, but some days JS seems to move too damn fast. I look at tutorials from late in the year 2015 that are already obsolete by January 2016. How the heck is anyone supposed to keep up with a technology that moves faster than they can write about it?

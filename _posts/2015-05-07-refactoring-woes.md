@@ -2,7 +2,6 @@
 layout: post
 title: "Refactoring Woes"
 date: 2015-05-07 21:44:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’m still learning that sometimes refactoring involves completely rethinking the responsibilities of the code involved. While even mediocre code tends to have well-thought-out responsibilities and separations of concerns, poorly-designed code tends to sneak in things that don’t belong.

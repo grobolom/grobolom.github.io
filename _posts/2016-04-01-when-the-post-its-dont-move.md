@@ -2,7 +2,6 @@
 layout: post
 title: "When the Post-Its don’t move"
 date: 2016-04-01 02:52:00 -0500
-tags: [tumblr-archive]
 ---
 
 Today was definitely one of those days. Lots of progress but nothing really tangible to show for it. I spend the majority of the day working and then spend a huge amount of time studying and finish the setup of GalliumOS on my chromebook. It was objectively an extremely fruitful day, but subjectively I didn’t feel like I’d really done much. There I was, sitting in the B&N, watching the sun set behind the trees in the distance, Kanban board unchanged except for the single backlog item now pushed into the progress box.

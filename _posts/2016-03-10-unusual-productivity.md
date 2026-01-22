@@ -2,7 +2,6 @@
 layout: post
 title: "(un)Usual Productivity"
 date: 2016-03-10 22:33:00 -0500
-tags: [tumblr-archive]
 ---
 
 For some reason or another, I’ve been feeling incredibly productive this last week. “I’ve solved my life” levels of productivity. It’s incredibly refreshing, considering how frustrated I’ve been with my work and overall life goals lately.

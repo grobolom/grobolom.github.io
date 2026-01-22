@@ -2,7 +2,6 @@
 layout: post
 title: "Podcasts and Progress"
 date: 2015-09-07 03:07:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’ve finally found a few good podcasts that match my programming expertise. A few months/years ago I tried to listen to stuff like Ruby Rogues and Avdi Grimm’s screencasts and it went way over my head. Now I’m learning quite a bit from them.

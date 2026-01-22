@@ -2,7 +2,6 @@
 layout: post
 title: "Creativity and TDD"
 date: 2018-07-25 06:51:00 -0500
-tags: [tumblr-archive]
 ---
 
 One of the challenges of creativity in programming is being unable to explore code in a way that one explores other forms of art.

@@ -2,7 +2,6 @@
 layout: post
 title: "Unconvincible"
 date: 2015-05-20 15:39:00 -0500
-tags: [tumblr-archive]
 ---
 
 There is definitely a point at which you must give up trying to convince someone of something. Discourse and disagreement is useful, oftentimes teaching you something in the process of the argument even if you are in the right. However, there comes a point at which you must understand that you cannot convince someone who refuses to listen.

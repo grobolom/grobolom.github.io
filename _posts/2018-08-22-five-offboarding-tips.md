@@ -2,7 +2,6 @@
 layout: post
 title: "Five Offboarding Tips"
 date: 2018-08-22 07:35:00 -0500
-tags: [tumblr-archive]
 ---
 
 Having left my position at Hearst, I was responsbile for tranferring almost two

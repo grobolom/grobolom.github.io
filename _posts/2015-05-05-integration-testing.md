@@ -2,7 +2,6 @@
 layout: post
 title: "Integration Testing"
 date: 2015-05-05 20:53:00 -0500
-tags: [tumblr-archive]
 ---
 
 So, I finally cleaned up a giant mess of code that I have been meaning to refactor for a long time. Unfortunately, said code is completely untested and features a huge amount of raw SQL queries. As a result, testing was impossible at the start, since I needed to separate a lot of stuff into a data access layer before I could do so.

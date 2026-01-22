@@ -2,7 +2,6 @@
 layout: post
 title: "React Composition Coming From OO"
 date: 2016-03-06 19:27:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’m finally starting to work with React in my spare time and I’m enjoying it immensely. While I had a fairly long stint with Angular there were always hiccups with code organization that I couldn’t quite wrap my head around. Since I wasn’t studying it consistently, I never really got around those hangups. However, React doesn’t seem to have to same issues for me.

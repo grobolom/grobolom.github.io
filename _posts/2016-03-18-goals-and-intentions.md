@@ -2,7 +2,6 @@
 layout: post
 title: "Goals and Intentions"
 date: 2016-03-18 21:12:00 -0500
-tags: [tumblr-archive]
 ---
 
 I don’t know if I wield a robust enough vocabulary to explain this clearly, but I’ll try. I’ve always been one to set goals that are, shall we say, ‘lofty’. Not unattainable, but goals like ‘Get a 4.0′ or ‘Win a world championship in X’. Goals that have a very specific ‘success’ condition, but no clear set of steps that can be taken to achieve them.

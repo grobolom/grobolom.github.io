@@ -2,7 +2,6 @@
 layout: post
 title: "Proximity"
 date: 2018-07-30 07:17:00 -0500
-tags: [tumblr-archive]
 ---
 
 One of the biggest challenges I’ve faced since I’ve moved from being an

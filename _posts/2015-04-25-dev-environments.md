@@ -2,7 +2,6 @@
 layout: post
 title: "Dev Environments"
 date: 2015-04-25 20:08:00 -0500
-tags: [tumblr-archive]
 ---
 
 The more time I spend on my desktop and laptop, the more and more I understand why Macs are the dev laptop of choice.

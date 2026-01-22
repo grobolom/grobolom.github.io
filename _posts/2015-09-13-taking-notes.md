@@ -2,7 +2,6 @@
 layout: post
 title: "Taking Notes"
 date: 2015-09-13 20:21:00 -0500
-tags: [tumblr-archive]
 ---
 
 I’ve been taking notes at work and for BJJ a lot more this year, and I’ve found it helps my progress and learning a lot. I like to think of taking notes as compound interest on my learning - maybe I’m only improving my uptake by 1-2%, but over many years it adds up to a much larger overall improvement.

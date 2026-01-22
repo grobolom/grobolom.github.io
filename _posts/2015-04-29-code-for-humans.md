@@ -2,7 +2,6 @@
 layout: post
 title: "Code for Humans"
 date: 2015-04-29 09:34:00 -0500
-tags: [tumblr-archive]
 ---
 
 It’s critical that high-level code is understandable by humans primarily. Often times, new developers (myself included, at least in the past) get caught up writing code that’s ‘optimal’ without considering whether or not it is readable or understandable. However, nothing in the programming world takes more time than maintenance, and code you can’t understand is many orders of magnitude harder to maintain. For example:

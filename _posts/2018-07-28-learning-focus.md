@@ -2,7 +2,6 @@
 layout: post
 title: "Learning Focus"
 date: 2018-07-28 10:27:00 -0500
-tags: [tumblr-archive]
 ---
 
 One of the parts of meditation that interests me the most is building the skill

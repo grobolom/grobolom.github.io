@@ -2,7 +2,6 @@
 layout: post
 title: "Minimalist Coding"
 date: 2016-03-03 12:29:00 -0500
-tags: [tumblr-archive]
 ---
 
 I am not a minimalist in my daily life, but in the interests of experimentation I’ve decided to embrace a little bit of it in my software development. I’ve done some work in limited environments before - the majority of my school coding and the first couple years out of college were done on a 10″ EEEPC. I found the limitations didn’t impact my productivity; in some cases, my productivity seemed to improve. I suspect the lack of minor distractions that came with the inability to open a million tabs had a positive effect. So now:

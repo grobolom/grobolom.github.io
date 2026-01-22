@@ -2,7 +2,6 @@
 layout: post
 title: "Some French Practice"
 date: 2016-03-29 00:12:00 -0500
-tags: [tumblr-archive]
 ---
 
 Alors, j’ai penser que je devrai ecriver un post en francais si ca je peux apprendre francaise tres rapidement. C’est tres dificile a apprendre francais quand on ne etion pas pres autre personnes qui parle francais.

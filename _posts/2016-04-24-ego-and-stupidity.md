@@ -2,7 +2,6 @@
 layout: post
 title: "Ego and Stupidity"
 date: 2016-04-24 00:11:00 -0500
-tags: [tumblr-archive]
 ---
 
 Today, I experienced a somewhat odd feeling - a competition victory that was not just hollow, but actively frustrating and upsetting.
