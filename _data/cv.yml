@@ -1,0 +1,76 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Location
+      value: Oakland, California
+    - name: Email
+      value: vasja.volin@gmail.com
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Senior Software Engineer 2
+      institution: LeafLink
+      year: 2024 - 2026
+      description:
+        - Developed recommendation engine using Algolia and Moloco for tailored product/ad suggestions
+        - Engineered nested package hierarchy algorithm for compliant payment processing in regulated industries
+        - Built webhooks architecture and optimized data ingestion for package traceability service
+
+    - title: Senior Staff Software Engineer
+      institution: Hype
+      year: 2021 - 2023
+      description:
+        - Designed analytics pipeline with feature-flagging and experimentation
+        - Introduced OpenAPI spec and JSDoc, cutting developer onboarding time by 50%
+        - Reduced defect rate by 33% and improved dev satisfaction by 20% through Agile practices
+        - Built Twilio messaging system increasing Creator acquisition by 20%
+
+    - title: Team Lead
+      institution: Republic
+      year: 2018 - 2020
+      description:
+        - Solved industry-compliant crypto-backed campaign architecture
+        - Led team of 4 remote engineers handling core microservices
+        - Trained engineering team as it grew from 4 to 20+ developers
+
+    - title: Tech Lead
+      institution: Hearst Magazines
+      year: 2016 - 2018
+      description:
+        - Built web services for video delivery across 95+ Hearst properties
+        - Rebuilt ES6 video player resulting in 300%+ improvement in content views
+        - Managed team of 8 handling cross-departmental feature deployment
+
+    - title: Senior Developer
+      institution: WSI Intelligent Audit
+      year: 2010 - 2016
+      description:
+        - Maintained and upgraded supply chain management software for hundreds of clients
+        - Introduced versioning, TDD, and SOLID principles improving turnaround by 50%
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BS Computer & Electrical Engineering
+      institution: Rutgers School of Engineering
+      year: 2010
+      description:
+        - Minor in Psychology
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Recent
+      items:
+        - Node.js, React + Redux, Next.js, OpenAPI, Docker
+        - AWS Lambda, ElasticSearch, Python, Ruby/Rails
+    - title: Strong
+      items:
+        - API Design, Microservice Development, Terraform
+        - PostgreSQL, Vue.js, TypeScript, REST, Scrum
+
+- title: Other Interests
+  type: list
+  contents:
+    - "<u>BJJ:</u> Brown belt, coaching at Island City Jiu-Jitsu"
