@@ -2,6 +2,7 @@
 layout: post
 title: "Codeglance"
 date: 2015-05-20 15:44:00 -0500
+image: /assets/img/blog/119462900509_0.png
 ---
 
 If you’re using PHPStorm, definitely give the above-named plugin a look. I’ve shamelessly ripped a screenshot of it from PHPStorm’s own blog:

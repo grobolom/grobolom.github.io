@@ -2,6 +2,7 @@
 layout: post
 title: "Evolution of a Simple Design"
 date: 2016-03-04 00:58:00 -0500
+image: /assets/img/blog/140432119554_0.png
 ---
 
 ![image](/assets/img/blog/140432119554_0.png)

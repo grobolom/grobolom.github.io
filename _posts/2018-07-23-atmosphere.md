@@ -2,6 +2,7 @@
 layout: post
 title: "Atmosphere"
 date: 2018-07-23 21:05:00 -0500
+image: https://lh3.googleusercontent.com/Y49rRiBZe9BdCwS7aPSKmyJqSpTpfzv7pDjJnOvBov8P5almLeWSg2SM4IWxFk9g8IWh=w1650-h949-rw
 ---
 
 I have experimented with many apps and tools for reducing distractions and enhancing my meditation, but one of the best by far is[Atmosphere by Peak Pocket Studios.

@@ -2,6 +2,7 @@
 layout: post
 title: "When Defeat Still Feels Like Victory"
 date: 2016-03-23 00:27:00 -0500
+image: /assets/img/blog/141528477159_0.png
 ---
 
 ![image](/assets/img/blog/141528477159_0.png)
