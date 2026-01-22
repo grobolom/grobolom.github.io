@@ -4,7 +4,7 @@ title: "Prolific Troubles"
 date: 2016-02-26 18:29:00 -0500
 ---
 
-I listen to the Giant Robots Smashing Into Other Giant Robots Podcast (wow, I didn't realize how long that was until I had to type it) pretty regularly, and a few months ago I was listening to [this episode titled "Prolificness"](http://giantrobots.fm/121). It's a great episode, and Allison House (the guest) is an impressive guest. While I can't recall the particulars of the conversation, the piece that stuck out to me was her focus on being prolific.
+I listen to the Giant Robots Smashing Into Other Giant Robots Podcast (wow, I didn't realize how long that was until I had to type it) pretty regularly, and a few months ago I was listening to [this episode titled "Prolificness"](https://giantrobots.fm/121). It's a great episode, and Allison House (the guest) is an impressive guest. While I can't recall the particulars of the conversation, the piece that stuck out to me was her focus on being prolific.
 
 The idea is that no matter what you do (in this case programming), you should be doing it all the time. You should be finding ways to immerse yourself in the world of your goal and to really showcase to both yourself and others that you are committed to it. It's a very important idea, and highlights that even a very small amount of effort each day combines to eventually making something big (in this case, a career).
 
