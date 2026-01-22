@@ -10,9 +10,7 @@ contact_note: >
   Best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Staff-level software engineer with 16 years of experience. API design, microservices, team leadership. Also a BJJ coach.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text:
 keywords: software engineer, staff engineer, api design, microservices, bjj, portfolio
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -54,7 +52,7 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
